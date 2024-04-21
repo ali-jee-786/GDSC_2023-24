@@ -1,0 +1,12 @@
+I'm Syed Ali Hussain from BSSE-4B (M) & general team member of GDSC NUML.
+During this tenure, I have attend all events, whether online or physical, and it helps me a lot in my field.
+The last session about 'Bootstrapping your career' was too valuable for us and hope to get into more events like this one in future
+I have also learned Flutter App development throughout the tenure under the supervision of industry experts.
+So far, I have learned about Widgets, local database (sqflite), API integration, State management, Firebase (database, storage, authentication).
+I am very happy to be a part of this community and will be part of this community in the future.
+Special thanks to GDSC lead, co-lead, tech lead.
+
+
+
+
+
